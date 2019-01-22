@@ -1,0 +1,24 @@
+[ 2018-12-05T15:18:04+08:00 ] ::1 /zzhclass/index.php/jian/index/data1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001560s ]
+ERR: 无法加载模块:Jian
+
+[ 2018-12-05T15:19:41+08:00 ] ::1 /zzhclass/index.php/jian/Home/index/data1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001046s ]
+ERR: 无法加载模块:Jian
+
+[ 2018-12-05T15:20:50+08:00 ] ::1 /zzhclass/index.php/jian/Home/View/Index/data1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001901s ]
+ERR: 无法加载模块:Jian
+
+[ 2018-12-05T15:20:52+08:00 ] ::1 /zzhclass/index.php/jian/Home/View/Index/data1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+ERR: 无法加载模块:Jian
+
